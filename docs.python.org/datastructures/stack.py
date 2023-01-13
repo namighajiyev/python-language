@@ -1,0 +1,12 @@
+stack = [3, 4, 5]
+stack.append(6)
+stack.append(7)
+print(stack)
+temp = stack.pop()
+print(temp)
+print(stack)
+temp = stack.pop()
+print(temp)
+temp = stack.pop()
+print(temp)
+print(stack)
